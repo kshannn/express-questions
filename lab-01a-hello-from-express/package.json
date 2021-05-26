@@ -1,0 +1,17 @@
+{
+  "name": "lab-01a-hello-from-express",
+  "version": "1.0.0",
+  "description": "Try the following hands-on. Create the following routes in your express app.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

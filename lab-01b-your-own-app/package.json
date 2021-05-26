@@ -1,0 +1,17 @@
+{
+  "name": "lab-01b-your-own-app",
+  "version": "1.0.0",
+  "description": "## Instructions There will be no `app_template.js` for you this time, just an `index.js`. Your task is to:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
